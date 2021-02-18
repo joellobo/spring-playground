@@ -1,2 +1,2 @@
-# spring-playgound
+# spring-playground
 Spring Playground
