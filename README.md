@@ -10,4 +10,5 @@ Spring Data JPA
 Spring Security
 Spring Native
 Spring Cloud
+Spring ElasticSearch
 '''
