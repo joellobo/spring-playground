@@ -13,3 +13,5 @@ Spring Playground
 - Spring ElasticSearch
 - Spring Batch
 
+- resttemplate:
+- https://www.baeldung.com/rest-template
