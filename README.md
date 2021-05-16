@@ -15,3 +15,5 @@ Spring Playground
 
 - resttemplate:
 - https://www.baeldung.com/rest-template
+
+- https://www.baeldung.com/axon-cqrs-event-sourcing
