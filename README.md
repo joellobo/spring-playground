@@ -10,6 +10,7 @@ Spring Playground
 - Spring Security
 - Spring Native
 - Spring Cloud
+- Spring Cloud Netflix
 - Spring ElasticSearch
 - Spring Batch
 
