@@ -10,8 +10,12 @@ Spring Playground
 - Spring Security
 - Spring Native
 - Spring Cloud
+- Spring Cloud Netflix
 - Spring ElasticSearch
 - Spring Batch
 
 - resttemplate:
 - https://www.baeldung.com/rest-template
+
+- https://www.baeldung.com/axon-cqrs-event-sourcing
+- https://docs.axoniq.io/reference-guide/extensions/spring-cloud
