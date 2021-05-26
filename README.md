@@ -13,6 +13,7 @@ Spring Playground
 - Spring Cloud Netflix
 - Spring ElasticSearch
 - Spring Batch
+- Spring and DBUnit
 
 - resttemplate:
 - https://www.baeldung.com/rest-template
