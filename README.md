@@ -20,3 +20,5 @@ Spring Playground
 
 - https://www.baeldung.com/axon-cqrs-event-sourcing
 - https://docs.axoniq.io/reference-guide/extensions/spring-cloud
+
+- clean architecture structure package
