@@ -22,3 +22,5 @@ Spring Playground
 - https://docs.axoniq.io/reference-guide/extensions/spring-cloud
 
 - clean architecture structure package
+
+- Rest best practices
